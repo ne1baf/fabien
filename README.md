@@ -8,21 +8,20 @@
 
 ### <span style="color:slateblue; font-size:1.1em; font-weight:thin;">Socials</span>
 
-<p align="left"> <a href="https://www.github.com/ne1baf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="www.linkedin.com/in/fabien-gaillard" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/company/souffle-ai/" target="_blank" rel="noreferrer"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQHhqJqZINneVw/company-logo_200_200/0/1655908394772?e=1665014400&v=beta&t=6FMLYIIVZ0anXQ992En_JJTAlIqTS8go3Tq6KqtCw58" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/ne1baf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="www.linkedin.com/in/fabien-gaillard" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/company/souffle-ai/" target="_blank" rel="noreferrer"><img src="https://www.souffle.ai/wp-content/themes/souffle/screenshot.png" width="32" height="32" /></a></p>
 
-Innovative ML Engineer currently working on reinforcing business solutions for restaurants using Artificial Intelligence at <a href="https://www.souffle.ai" target="_blank" rel="noreferrer">Soufflé</a>. Love to challenge myself with new **problems** and eager to bring **solutions**
+ML Engineer currently working on developing business solutions for restaurants using Artificial Intelligence at <a href="https://www.souffle.ai" target="_blank" rel="noreferrer">Soufflé</a>. Love to challenge myself with new **problems** and eager to bring **solutions**
 
-• Master in Artificial Intelligence
+• Master's degree in Artificial Intelligence
 
 • Trained, Tested, Benchmarked, Deployed and Monitored ML Models
 
-• Master Thesis in NLP: _Apprehending the difficulty of the Sentiment Analysis in texts_
+• Master Thesis in NLP: _Apprehending the difficulty of Sentiment Analysis in texts_
 
 • Experience in Functional and Object-Oriented Programming styles of Python and Javascript.
 
-• Expertise in Full Web Stack using librairies such as VueJS, Flask, Jinja, AWS Lambda.
+• Full Stack using frameworks / librairies such as VueJS, Flask, Tailwind and serverless architecture.
 
-• Expertise with API-first approach.
 
 ### <span style="color:slateblue; font-size:1.1em; font-weight:thin;">AI-related Languages, Librairies and Frameworks</span>
 
@@ -83,21 +82,3 @@ The goal was to develop adaptative Sentiment Analysis based on the difficulty to
 - Benchmarked different top performing models on different Sentiment Analysis tasks
 - Engineered meaningful features to evaluate DATS
 - Proposed new adaptative sentiment analysis method and models to a board of researchers
-
-### <span style="color:slateblue; font-size:1.1em; font-weight:thin;"> Tools | Frameworks</span>
-
-Web: VueJS, Tailwind, Vite, AWS Serverless
-
-Data Preprocessing: NumPy, Pandas.
-
-Machine and Deep Learning Implementation Framework: Scikit-Learn, Keras, TensorFlow
-
-Natural Language Processing: NLTK, BERT.
-
-Development: Python, Flask, Git.
-
-Data Visualization: Matplotlib, Tableau, Seaborn.
-
-Cloud Services: AWS, Google Colaboratory
-
-Integrated Development Environment: Jupyter-Notebook
