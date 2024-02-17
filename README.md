@@ -1,10 +1,10 @@
-# Hi 👋 My name is <span style="color:blueviolet;">Fabien Gaillard</span>
+# Hi 👋 My name is <span style="color:blueviolet;">Fabien</span>
 
 - 🌍  I'm based in Paris, France 🇫🇷
 - 📈  Currently helping restaurants grow using their data
 - 💼  I'm a Machine Learning Engineer
-- 🎓  Master's Degree in AI (NLP)
-- 👨🏻‍💻  I do some Full Stack Dev as well!
+- 🎓  Master's Degree in CS, MS thesis in Research AI
+- 👨🏻‍💻  I do some Full Stack Dev and DevOps as well!
 
 ### <span style="color:slateblue; font-size:1.1em; font-weight:thin;">Socials</span>
 
